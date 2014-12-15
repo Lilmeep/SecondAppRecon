@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SecondAppRecon</string>
+    <string name="action_settings">Settings</string>
+    <string name="Please_Select_a_Topic">Please Select A Topic!</string>
+	<string name="topics_prompt">Choose a Topic</string>
+	<string name="get_Phrase">Get Phrase</string>
+	<string name="get_Phrase2">Phrase Suggestions?</string>
+	<string-array name="randomizerStringArray">
+<!-- empty array for initialization  -->	    
+	</string-array>
+	
+    <string-array name= "topics_array">
+        <item >None Selected</item>
+        <item >Drinking with people you know</item>
+        <item >Drinking with people you do not know</item>
+        <item >Talking with boring coworkers</item>
+        <item >Hitting on girls</item>
+        <item >Hitting on guys</item>
+        <item >Getting out of awkward situations</item>
+        <item >Talking with homeless people</item>
+        <item >Talking with your professor</item>
+    </string-array>
+    
+<!--  -->
+<!--  -->    
+<!--  -->
+<!--Experimental String Array  -->
+<!-- <array name= "THEARRAYTORULEALLARRAYS">
+    <item>@array/arrayNoneSelected</item>
+    <item>@array/Drinkingwithpeopleyouknow</item>
+    <item>@array/Drinkingwithpeopleyoudonotknow</item>
+    <item>@array/Talkingwithboringcoworkers</item>
+    <item>@array/Hittingongirls</item>
+    <item>@array/Hittingonguys</item>
+    <item>@array/Gettingoutofawkwardsituations</item>
+    <item>@array/Talkingwithhomelesspeople</item>
+    <item>@array/Talkingwithyourprofessor</item>
+</array> -->
+
+
+<!--    Mike's resourses -->
+
+<string-array name="NoneSelected">
+    <item >1</item>
+    <item >item one</item>
+</string-array>
+<string-array name="Drinkingwithpeopleyouknow">
+    <item >FUCK1</item>
+    <item >THIS1</item>
+</string-array>
+<string-array name="Drinkingwithpeopleyoudonotknow" >
+    <item >SHIT2</item>
+    <item >WILLIAM2</item>
+</string-array>
+<string-array name="Talkingwithboringcoworkers">
+    <item >HENRY3</item>
+    <item >SCOTT3</item>
+</string-array>
+<string-array name="Hittingongirls">
+    <item >FUCK4</item>
+    <item >THIS4</item>
+</string-array>
+<string-array name="Hittingonguys">
+    <item >SHIT5</item>
+    <item >WILLIAM5</item>
+</string-array>
+<string-array name="Gettingoutofawkwardsituations">
+    <item >HENRY6</item>
+    <item >SCOTT6</item>
+</string-array>
+<string-array name="Talkingwithhomelesspeople">
+    <item >FUCK7</item>
+    <item >THIS7</item>
+</string-array>
+<string-array name="Talkingwithyourprofessor">
+    <item >SHIT8</item>
+    <item >WILLIAM8</item>
+</string-array>
+
+<!--BUTTON TAKES IN AN ARRAY, NEEDS TO BE STRING ARRAY IF POSSIBLE  -->
+<!-- etc. -->
+<array name="categories0">
+    <item>@array/NoneSelected</item>
+    <item>@array/Drinkingwithpeopleyouknow</item>
+    <item>@array/Drinkingwithpeopleyoudonotknow</item>
+    <item>@array/Talkingwithboringcoworkers</item>
+    <item>@array/Hittingongirls</item>
+    <item>@array/Hittingonguys</item>
+    <item>@array/Gettingoutofawkwardsituations</item>
+    <item>@array/Talkingwithhomelesspeople</item>
+    <item>@array/Talkingwithyourprofessor</item>
+    
+</array>
+
+</resources>
